@@ -1,0 +1,9 @@
+Building Wiracoin
+
+See doc/readme-qt.rst for instructions on building Wiracoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Wiracoin.
+
+See doc/build-*.txt for instructions on building wiracoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Wiracoin.
